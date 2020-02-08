@@ -21,14 +21,6 @@ public class CategoryTest {
 		assertEquals(id, category.getId());
 	}
 
-	@Test
-	public void testGetDescription() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	public void testGetRecipes() {
-		fail("Not yet implemented");
-	}
+	
 
 }
